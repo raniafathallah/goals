@@ -1,2 +1,2 @@
 hosted on heroku 
-https://mern-goals-application.herokuapp.com/login
+https://mern-goals-application.herokuapp.com/register
